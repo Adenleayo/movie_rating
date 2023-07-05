@@ -9,4 +9,5 @@
 
 * Performed exploratory data analysis (EDA) on the dataset, missing value analysis, and visualization of the distribution of the data.
 
-* Overall i found out that movie from year 2015 have a higher rating and stars.
+* Overall i found out that movie from year 2015 have a higher rating and starsas a results of higher votes
+* 
